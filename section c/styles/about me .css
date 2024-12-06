@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+    background-size: cover;
+    background-position: center;
+    color: black;
+    background-blend-mode: soft-light;
+    backface-visibility: hidden;
+}
+
+.header {
+    background-color:rgba(14, 19, 14, 0.267);
+    border-bottom: 800px;
+    margin-bottom: 0px;
+    
+}
+
+nav {
+    display: flex;
+    text-align: center;
+    gap: 50px;
+    font-size: 25px;
+    color: orangered;
+    border: 50px;
+    padding: 40px 40px;
+    background-color:bisque;
+    border-bottom: 900px;
+    
+    position: sticky;
+    background-color: white;
+}

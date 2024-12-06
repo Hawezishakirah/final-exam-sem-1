@@ -1,0 +1,31 @@
+#home {
+    height: 100vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cta-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: none;
+}
+
+nav {
+    display: flex;
+    text-align: center;
+  gap: 50px; 
+  font-size: 25px;
+    border: 50px;
+    padding: 40px;
+    background-color:rgba(23, 23, 48, 0.219);
+    border-bottom: 900px;
+    
+    position: sticky;
+    background-color: rgb(39, 95, 121);
+  
+      
+  }
